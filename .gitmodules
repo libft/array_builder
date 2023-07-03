@@ -1,0 +1,6 @@
+[submodule "submodules/branch"]
+	path = submodules/branch
+	url = https://github.com/libft/branch.git
+[submodule "submodules/common"]
+	path = submodules/common
+	url = https://github.com/libft/common.git
